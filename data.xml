@@ -1,12 +1,12 @@
 <items>
     <dish>
-        <name>bolonieze</name>
-        <price>250</price>
-        <weight>300</weight>
+        <name>vr</name>
+        <price>300</price>
+        <weight>250</weight>
     </dish>
     <dish>
-        <name>sosiski jarenie</name>
-        <price>150</price>
-        <weight>400</weight>
+        <name>zachet</name>
+        <price>400</price>
+        <weight>150</weight>
     </dish>
 </items>
